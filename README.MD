@@ -7,6 +7,16 @@ July 12 2021
 This document hereby establishes a worldwide digital autonomous organization
 (DAO) known as BTCDAO.
 
+## Abstract
+
+Bitcoin's proof-of-work consensus has created a new epoch in energy production.
+Stranded energy can power Bitcoin mining operations and the profits can help
+finance infrastructure to bridge the stranded energy to areas that can use it.
+
+Furthermore, nations have begun selling bonds to finance mining operations in
+Their borders. These bonds will be paid back with the profits, and the profits
+will also finance infrastructure.
+
 BTCDAO's purpose is to initiate and support volcanic Bitcoin mining operations
 across the globe. The purpose of these mining operations is to benefit the local
 communities, local governments, DAO participants, and the world at large.
