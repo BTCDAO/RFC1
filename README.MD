@@ -13,9 +13,25 @@ Bitcoin's proof-of-work consensus has created a new epoch in energy production.
 Stranded energy can power Bitcoin mining operations and the profits can help
 finance infrastructure to bridge the stranded energy to areas that can use it.
 
-Furthermore, nations have begun selling bonds to finance mining operations in
-Their borders. These bonds will be paid back with the profits, and the profits
-will also finance infrastructure.
+Furthermore, nations have begun selling bonds to bootstrap energy production and
+mining operations within their borders. These bonds will be paid with interest
+from the mining profits. Because Bitcoin is a deflationary asset, the bonds are
+a reasonably secure investment. There is a very high probability that a successful
+mining operation would generate enough Bitcoin to repay bond holders. However,
+trust in the bond issuer is a risk.
+
+While it is very exciting that Bitcoin has unlocked a whole new opportunity for
+growth within countries that have stranded energy, there is an even larger
+opportunity at hand.
+
+Rather than leaving each country to figure out how to monetize stranded energy
+for themselves, BTCDAO proposes the following:
+
+1. Work with the global community to create an open-source blueprint for unlocking
+stranded energy via Bitcoin mining.
+2. Work with the global community to create a trustless bond mechanism on the
+Bitcoin network whereby nations can raise Bitcoin to fund the implementation of the
+blueprint and funders can receieve a return on their Bitcoin.
 
 BTCDAO's purpose is to initiate and support volcanic Bitcoin mining operations
 across the globe. The purpose of these mining operations is to benefit the local
