@@ -30,12 +30,15 @@ for themselves, BTCDAO proposes the following:
 1. Work with the global community to create an open-source blueprint for unlocking
 stranded energy via Bitcoin mining.
 2. Work with the global community to create a trustless bond mechanism on the
-Bitcoin network whereby nations can raise Bitcoin to fund the implementation of the
+Bitcoin network whereby nations can raise Bitcoin to fund the implementation of this
 blueprint and funders can receieve a return on their Bitcoin.
+3. Initiate and operate BTCDAO stranded energy production and mining operations
+across the planet according to this blueprint.
 
-BTCDAO's purpose is to initiate and support volcanic Bitcoin mining operations
-across the globe. The purpose of these mining operations is to benefit the local
-communities, local governments, DAO participants, and the world at large.
+BTCDAO's purpose is to facilitate, initiate and support stranded energy Bitcoin
+mining operations across the globe. The purpose of these mining operations is to
+benefit the local communities, local governments, DAO participants, and the world
+at large.
 
 ## Objectives
 
@@ -58,7 +61,14 @@ values and incentives with that of Bitcoin.
 This RFC has been posted to a public repository on github.com to facilitate
 public discussion, transparency, and collaboration. All people of good will are
 invited to become part of BTCDAO and contribute to the construction of a better
-world.
+world. Currently, this repository is owned by an individual. The goal is to move
+away from this centralized control as quickly as possible with the help of BTCDAO
+participants.
+
+At the moment, one can become a participant in BTCDAO by interacting with this
+repository, whether by providing feedback, starring/watching, contributing or
+opening an issue. Membership confers no benefits at this time, but the structure
+of the DAO will evolve with community input.
 
 The organizational structure and governance structure of BTCDAO are yet to be
 determined; using Bitcoin core development as an archetype, input from the
@@ -70,13 +80,16 @@ Nakamoto Consensus and the Bitcoin network itself could be instrumental in
 implementing a global decentralized governance structure for BTCDAO, but the
 specific parameters of such governance must still be defined.
 
-Currently, this repository is owned by an individual. The goal is to move away
-from this centralized control as quickly as possible with the help of BTCDAO
-participants.
+## Todo
 
-# Modules
+1. Gather initial feedback on this RFC.
+2. ...
 
-A module is a BTCDAO-run volcanic Bitcoin mining operation at a specific
+# Blueprint for Stranded Energy Mining (SEM)
+
+## Modules
+
+A module is a BTCDAO-run stranded energy Bitcoin mining operation at a specific
 location. The impact of a module includes:
 
 - the construction of new geothermal power plants
@@ -91,11 +104,12 @@ Bitcoin and individual sovereignty
 - taxes paid to local government for ongoing module operations
 - increased local economic activity thanks to module operations
 - revenue paid to BTCDAO participants from mining operations
-- various local philanthropic endeavors and investments to be determined on a case-by-case basis by BTCDAO
+- various local philanthropic endeavors and investments to be determined on a
+case-by-case basis by BTCDAO
 
 ## Investment
 
-BTCDAO participants may invest Bitcoin with BTCDAO to fund new modules.
-Investors will be repayed according to their investment amount from the module's
-mining profits.
+BTCDAO participants may invest Bitcoin with BTCDAO in a trustless fashion to
+fund new modules. Investors will be repayed according to their investment
+amount from the module's mining profits.
 
