@@ -10,8 +10,9 @@ This document hereby establishes a worldwide digital autonomous organization
 ## Abstract
 
 Bitcoin's proof-of-work consensus has created a new epoch in energy production.
-Stranded energy can power Bitcoin mining operations and the profits can help
-finance infrastructure to bridge the stranded energy to areas that can use it.
+Stranded energy, such as geothermal and hydroelectric, can power Bitcoin mining
+operations and the profits can help finance infrastructure to bridge the stranded
+energy to areas that can use it.
 
 Furthermore, nations have begun selling bonds to bootstrap energy production and
 mining operations within their borders. These bonds will be paid with interest
@@ -24,21 +25,40 @@ While it is very exciting that Bitcoin has unlocked a whole new opportunity for
 growth within countries that have stranded energy, there is an even larger
 opportunity at hand.
 
+There are 2 problems BTCDAO proposes to solve:
+
+1. Trust in bond issuers is required to have financial exposure to stranded energy
+mining (SEM).
+2. Nations must currently innovate SEM solutions in isolation. Few Nations have
+implemented SEM.
+
 Rather than leaving each country to figure out how to monetize stranded energy
 for themselves, BTCDAO proposes the following:
 
 1. Work with the global community to create an open-source blueprint for unlocking
 stranded energy via Bitcoin mining.
-2. Work with the global community to create a trustless bond mechanism on the
-Bitcoin network whereby nations can raise Bitcoin to fund the implementation of this
-blueprint and funders can receieve a return on their Bitcoin.
-3. Initiate and operate BTCDAO stranded energy production and mining operations
-across the planet according to this blueprint.
+2. Work with the global community to create a trustless Bitcoin-based bond
+mechanism whereby nations can raise Bitcoin anonymously from the global community
+to fund the implementation of this blueprint, and funders can receieve a return on
+their Bitcoin from profitable SEM.
+3. Initiate and operate BTCDAO SEM operations across the planet according to this
+blueprint.
 
-BTCDAO's purpose is to facilitate, initiate and support stranded energy Bitcoin
-mining operations across the globe. The purpose of these mining operations is to
-benefit the local communities, local governments, DAO participants, and the world
-at large.
+BTCDAO's purpose is to facilitate, initiate and support stranded energy mining (SEM)
+operations across the globe. The purpose of these mining operations is to benefit
+the local communities, local governments, DAO participants, and the world at large.
+
+This initiative will:
+- increase clean energy availability worldwide
+- enrich developing nations and the individual bond holders who support them
+- create a clear path to SEM for nations and organizations
+- accelerate geothermal and hydroelectric power generation technology development
+- create a collaborative worldwide culture of self-sufficiency, responsiblity, and
+sovereignty
+- create borderless investment opportunities without sacrificing privacy 
+- bring jobs to jobless areas
+- share knowledge across borders that might otherwise not be shared
+- bring Bitcoin and its principles to every corner of the world
 
 ## Objectives
 
